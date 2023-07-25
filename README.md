@@ -36,7 +36,8 @@ Degrees of Separation with Breadth-first Search
 │   ├── Marvel-graph.txt
 │   └── Marvel-names.txt
 ├── README.md
-└── LICENSE
+├── APACHE LICENSE
+└── MIT LICENSE
 ```
 **Degrees of Separation with Breadth-first Search Algorithm.ipynb**: This Jupyter Notebook serves as the main spark driver file. It contains the code implementation of the BFS algorithm in PySpark RDD to find degrees of separation between heroes.
 
@@ -44,9 +45,11 @@ Degrees of Separation with Breadth-first Search
 
 **data/Marvel-names.txt**: Provides a mapping between heroIDs and their corresponding superhero names. This [dataset](https://www.projectpro.io/article/100-machine-learning-datasets-curated-for-you/407) allows easy identification and reference to specific superheroes within the Marvel universe.
 
-**README.md**: The current file you are reading. It provides an overview of the repository, case study descriptions, and other relevant information.
+**README.md**: The current file you are reading. It provides an overview of the repository, project description, usage, and other relevant information.
 
-**LICENSE**: The license file for the project.
+**MIT LICENSE**: The license file for the project.
+
+**APACHE LICENSE**: The license file for the project.
 
 <br>
 
