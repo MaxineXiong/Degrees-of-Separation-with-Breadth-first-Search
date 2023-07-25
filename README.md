@@ -47,9 +47,9 @@ Degrees of Separation with Breadth-first Search
 
 **README.md**: The current file you are reading. It provides an overview of the repository, project description, usage, and other relevant information.
 
-**MIT LICENSE**: The license file for the project.
-
 **APACHE LICENSE**: The license file for the project.
+
+**MIT LICENSE**: The license file for the project.
 
 <br>
 
@@ -80,7 +80,7 @@ Contributions to the project are welcome! If you find any issues or have suggest
 
 ## **License**
 
-The project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+The project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) and [Apache License](http://www.apache.org/licenses/).
 
 <br>
 
