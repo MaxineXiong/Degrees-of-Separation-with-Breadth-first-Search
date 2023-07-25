@@ -6,7 +6,7 @@
 
 <br>
 
-In this project, we aim to determine the degree of separation between two Marvel superheroes based on their network connections within the Marvel universe. 
+In this project, we aim to determine the degree of separation between two Marvel superheroes based on their network connections within the [Marvel universe](https://www.marvel.com/). 
 The connections between superheroes are established by analysing their appearances together in the same comic books, reflecting their interactions and collaborations 
 within the Marvel universe. If two superheroes have ever appeared in the same comic books, they are considered directly connected to each other. To find the degrees of separation, 
 we employ the powerful **[Breadth-first Search (BFS)](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)** algorithm implemented in **[PySpark RDD](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.RDD.html)**. This algorithm allows us to efficiently explore the network of superhero connections 
@@ -86,4 +86,4 @@ The project is licensed under the [MIT License](https://choosealicense.com/licen
 
 ## **Acknowledgement**
 
-I extend my gratitude to the Marvel universe and its creators for providing the rich dataset that makes this project possible. Additionally, I thank the [PySpark](https://spark.apache.org/docs/latest/api/python/#:~:text=PySpark%20is%20the%20Python%20API,for%20interactively%20analyzing%20your%20data.) and [Apache Spark](https://spark.apache.org/) communities for their valuable contributions to the data processing and analysis ecosystem.
+I extend my gratitude to the [Marvel universe](https://www.marvel.com/) and its creators for providing the rich dataset that makes this project possible. Additionally, I thank the [PySpark](https://spark.apache.org/docs/latest/api/python/#:~:text=PySpark%20is%20the%20Python%20API,for%20interactively%20analyzing%20your%20data.) and [Apache Spark](https://spark.apache.org/) communities for their valuable contributions to the data processing and analysis ecosystem.
