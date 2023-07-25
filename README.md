@@ -66,7 +66,7 @@ To set up the environment for running the Spark code, follow these steps:
    ```
 
 3. Open **Anaconda Navigator**, go to **Environments**, and select the **py38** environment to install the "**pyspark**" package.
-4. In the **py38** environment folder (e.g. "C:\Users\[your-user-name]\anaconda3\envs\py38"), create a copy of **python.exe** and rename it to "**python3.exe**".
+4. In the **py38** environment folder (e.g. "C:\Users\\[your-user-name]\anaconda3\envs\py38"), create a copy of **python.exe** and rename it to "**python3.exe**".
 5. Open the **Jupyter Notebook** application from your **Anaconda Navigator**. The notebooks you open should now run on Python 3.8. You can check the Python version by executing `!python --version` in a notebook code cell.
 6. Download this repository and open the **Degrees of Separation with Breadth-first Search Algorithm.ipynb** in your Jupyter Notebook.
 
